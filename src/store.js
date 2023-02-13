@@ -9,4 +9,4 @@ export const store = reactive({
 
 })
 
-// 58f82a81001bd35dae6840f503464d60 QUESTA é LA MIA KEY!!
+// 58f82a81001bd35dae6840f503464d60 QUESTA é LA MIA KEY!
